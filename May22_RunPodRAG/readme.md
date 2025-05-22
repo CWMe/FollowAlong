@@ -17,15 +17,6 @@ Welcome to our live demo event! This guide will help you follow along as we buil
 
 ## 📊 System Architecture
 
-```mermaid
-graph LR
-    A[RunPod GPU Instance] --> B[Ollama (LLM Runtime)]
-    B --> C[Open-webUI Interface]
-    C --> D[Gemma3 Model (Open Weights)]
-    C --> E[HR Docs or Custom Documents]
-    E --> F[Embedding, Retrieval & Generation]
-```
-
 ---
 
 ## 🧰 Tools Overview
