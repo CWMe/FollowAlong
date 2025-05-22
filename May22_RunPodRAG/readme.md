@@ -1,6 +1,6 @@
 # 🧠 Build a RAG System with Open Tools | CodeWithMe Live Demo
 
-Welcome to our live demo event! This guide will help you follow along as we build a **Retrieval-Augmented Generation (RAG)** system using 100% open tools. By the end, you’ll have a full pipeline that can answer questions using your own documents — powered by **RunPod**, **Ollama**, **Open-webUI**, and **Gemma3**.
+Welcome to our live demo event! This guide will help you follow along as we build a **Retrieval-Augmented Generation (RAG)** system using 100% open source tools. By the end, you’ll have a full pipeline that can answer questions using your own documents — powered by **RunPod**, **Ollama**, **Open-webUI**, and **Gemma3**.
 
 ---
 
